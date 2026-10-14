@@ -1,0 +1,2 @@
+# premium-kettle-forge-001-kettle-forging-cauldron-form
+Stop losing track of your forge recipes and client orders. Your anvil is ready, but your Notion is a mess.  This template turns your chaotic workshop into a streamlined digital forge. Organize every step from raw metal to finished cauldron, so you can focus on the craft instead of the chaos. It’s the only Notion system built specifically for kettle
